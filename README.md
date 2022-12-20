@@ -23,7 +23,7 @@ Durante seu desenvolvimento foram exercitados diversos conhecimentos, deixo list
 A aplicação apresenta um site de uma **barbearia**, uma _tela de um navegador_ apresentando **um site de uma barbearia mostrando algumas coisas sobra a barbearia, a localização, a missão, os beneficios, e imagens ilustrativas**.
 
   <p align="center">
-  <img src="https://github.com/jhoisz/Bytebank-Alura-v2/blob/main/bytebankv2.gif" alt= "Gif colorido da aplicação desenvolvida realizando a operação de transferência." />
+  <img src="imgs/Animação1.gif" alt= "Gif colorido da aplicação desenvolvida realizando a operação de transferência." />
 </p>
 
 ## :hammer: Tecnologias usadas
