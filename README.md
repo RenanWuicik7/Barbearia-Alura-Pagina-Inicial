@@ -32,13 +32,6 @@ Neste projeto foram usadas as seguintes tecnologias:
 
 
 > Linguagem/Editor [Sublime Text](https://www.sublimetext.com/)
-
-## 📈 Estatísticas
-
-<div>
-<a href="https://github.com/RenanAlura7">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanAlura7&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanAlura7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
   
-  
+  ## Projeto:
+**[CLIQUE AQUI PARA UTILIZAR O PROJETO](https://renanalura7.github.io/Barbearia-Alura/)** 😉
