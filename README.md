@@ -13,9 +13,9 @@ Durante seu desenvolvimento foram exercitados diversos conhecimentos, deixo list
 * Qual a diferença entre HTML e CSS;
 * O que é CSS;
 * O que é uma Tag HTML;
-* Como usar as Tag do HTML;
+* Como usar as Tag´s do HTML;
 * Como se aplica o CSS em um projeto HTML;
-* Qual a importância dessas linguagem na vida de um DEV;
+* Qual a importância dessas linguagens na vida de um DEV;
 * Como elas aparecem em nosso dia a dia;
 
 ## ✨ Funcionalidades do projeto
