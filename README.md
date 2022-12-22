@@ -3,7 +3,7 @@
 Aplicação de **Programação** desenvolvida durante o [Curso de
 HTML5 e CSS3 parte 1: crie uma página da Web](https://cursos.alura.com.br/course/html5-css3-primeiros-passos), na plataforma **[Alura](https://cursos.alura.com.br/)**, pelo instrutor [Pedro Marins](https://pedromarins.com/links/).
 
-## 📒 Conhecimentos adiquiridos
+## 📒 Conhecimentos adquiridos
 
 Durante seu desenvolvimento foram exercitados diversos conhecimentos, deixo listado abaixo alguns deles:
 
@@ -20,7 +20,7 @@ Durante seu desenvolvimento foram exercitados diversos conhecimentos, deixo list
 
 ## ✨ Funcionalidades do projeto
 
-A aplicação apresenta um site de uma **barbearia**, uma _tela de um navegador_ apresentando **um site de uma barbearia mostrando algumas coisas sobra a barbearia, a localização, a missão, os beneficios, e imagens ilustrativas**.
+A aplicação apresenta um site de uma **barbearia**, uma _tela de um navegador_ apresentando **um site de uma barbearia mostrando algumas coisas sobre a barbearia, a localização, a missão, os beneficios, e imagens ilustrativas**.
 
   <p align="center">
   <img src="imgs/Animação1.gif" alt= "Gif colorido da aplicação desenvolvida realizando a operação de transferência." />
